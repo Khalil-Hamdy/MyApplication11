@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application11</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="user_name">User Name</string>
+    <string name="todo">TODO</string>
+    <string name="remember_me">Remember me</string>
+    <string name="forget_password">Forget Password</string>
+    <string name="already_have_a_account_sign_in">already have a account \'Sign in\'</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+</resources>
